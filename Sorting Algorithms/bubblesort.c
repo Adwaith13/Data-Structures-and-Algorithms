@@ -44,5 +44,3 @@ void main()
     arr(a,n);
 }
 
-        
-
