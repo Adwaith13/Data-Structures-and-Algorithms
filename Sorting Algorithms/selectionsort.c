@@ -44,5 +44,4 @@ void main()
     selectionSort(a,n);
     printf("\nArray after Sorting:\n");
     arr(a,n);
-
 }
